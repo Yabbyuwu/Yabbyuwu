@@ -2,7 +2,7 @@
 - 👀 I’m interested in finance and computer science
 - 🌱 I’m currently learning how the market works...
 - 💞️ I’m looking to collaborate on anything related to problem solving in fiance & climate 
-- 📫 How to reach me ...luck?
+- 📫 How to reach me ...
 
 <!---
 Yabbyuwu/Yabbyuwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
